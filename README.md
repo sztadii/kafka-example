@@ -12,7 +12,7 @@ Enjoy :)
 
 ## Hot to run
 ```
-docker-compoe up
+docker-compose up
 ```
 
 You will create all required containers
