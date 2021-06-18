@@ -14,3 +14,6 @@ Enjoy :)
 ```
 docker-compoe up
 ```
+
+You will create all required containers
+Your Kafka instance will run on `9092` port and web-ui on `9000`

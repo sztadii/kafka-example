@@ -1,6 +1,6 @@
 version: "2"
 services:
-  kafdrop:
+  web-ui:
     image: obsidiandynamics/kafdrop
     ports:
       - "9000:9000"
