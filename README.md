@@ -4,7 +4,7 @@ A simple Kafka app with easy to set up configuration
 ## Problem to solve:
 
 When you will need to deliver a new feature where a Kafka broker needs to be use. <br />
-Sometimes you will need to set up a local env for that.
+Sometimes you will need to set up a local env for that. <br />
 It can be painful to find a proper Kafka and Zookeeper configuration. <br />
 So this repo can solve your problem just with a single command. <br />
 It will create Kafka, Zookeeper and WebUI instances that helps you monitor new events and their messages <br />
